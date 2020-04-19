@@ -7,6 +7,7 @@ using namespace std;
 
 unsigned int calcularRandom ();
 const int DEFUALT_OPTIONS = 0;
+
 int main () {
 
 	pid_t id = fork ();

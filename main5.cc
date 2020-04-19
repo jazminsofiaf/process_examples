@@ -22,6 +22,8 @@ int main () {
 		delete valor;
 		exit ( 0 );
 	}
+
+	//this is a wrong way to use new and delete because we didnt free the memeory in the child
 }
 
 #endif
